@@ -19,9 +19,6 @@ p {
     font-weight: 400;
 }
 
-.knopka {
-    cursor: pointer;
-}
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -84,7 +81,7 @@ address {
     color: #ffffff
 }
 
-.order {
+.knopka {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -92,13 +89,14 @@ address {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer
 }
 
-.order:hover {
+.knopka:hover {
     background-color: #404BBF;
 }
 
-.order:focus {
+.knopka:focus {
     background-color: #404BBF;
 }
 
