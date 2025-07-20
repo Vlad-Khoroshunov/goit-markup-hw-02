@@ -37,7 +37,7 @@ button {
     color: #2e2f42;
 }
 
-.link-studio {
+.link_studio {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -45,11 +45,11 @@ button {
     color: #2e2f42;
 }
 
-.link-studio:hover {
+.link_studio:hover {
     color: #404bbf;
 }
 
-.link-studio:focus {
+.link_studio:focus {
     color: #404bbf;
 }
 
