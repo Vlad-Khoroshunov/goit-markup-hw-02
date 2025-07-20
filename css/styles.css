@@ -19,7 +19,9 @@ p {
     font-weight: 400;
 }
 
-
+.order {
+    cursor: pointer;
+}
 
 .logo {
     font-family: "Raleway", sans-serif;
