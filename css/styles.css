@@ -4,21 +4,10 @@ body {
     background-color: #FFFFFF;
 }
 
-h2 {
+.services {
     font-size: 36px;
     font-weight: 700;
 }
-
-h3 {
-    font-size: 20px;
-    font-weight: 500;
-}
-
-p {
-    font-size: 16px;
-    font-weight: 400;
-}
-
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -78,7 +67,7 @@ address {
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #ffffff
+    color: #ffffff;
 }
 
 .knopka {
@@ -100,7 +89,7 @@ address {
     background-color: #404BBF;
 }
 
-.services {
+.services-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -113,6 +102,7 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-weight: 400;
 }
 
 .section-team {
@@ -130,6 +120,8 @@ address {
 
 .teammate {
     background-color: #FFFFFF;
+    font-size: 36px;
+    font-weight: 700;
 }
 
 .teammate-name {
@@ -145,6 +137,7 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-weight: 400;
 }
 
 .portfolio {
@@ -154,6 +147,7 @@ address {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    font-weight: 700;
 }
 
 .portfolio-title {
@@ -169,12 +163,15 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-weight: 400;
 }
 
 .footer-p {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 .studio-footer {
@@ -184,3 +181,14 @@ address {
 .footer {
     background-color: #2e2f42;
 }
+
+.table {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
